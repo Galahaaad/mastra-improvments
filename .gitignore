@@ -6,3 +6,9 @@ dist
 .env
 *.db
 *.db-*
+
+# VS Code
+.vscode/
+
+# Claude.md
+CLAUDE.md
