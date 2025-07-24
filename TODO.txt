@@ -1,0 +1,30 @@
+# Système Multi-Agent ITSM - TODO
+
+## Objectif
+Transformer l'agent météo en système multi-agent pour l'aide à la résolution de tickets ITSM
+
+## Architecture cible
+- Agent 1: Clarification des demandes utilisateur
+- Agent 2: Recherche documentaire et corrélation avec procédures  
+- Agent 3: Formalisation des réponses
+
+## Actions à réaliser
+
+### Agents
+- [ ] Créer l'agent de clarification
+- [ ] Créer l'agent de recherche documentaire
+- [ ] Créer l'agent de formalisation
+
+### Outils
+- [ ] Créer outil de recherche KB
+- [ ] Créer outil d'analyse de tickets
+- [ ] Créer outil de catégorisation
+
+### Workflow
+- [ ] Créer workflow multi-agent
+- [ ] Orchestrer les 3 agents
+
+### Configuration
+- [ ] Mettre à jour index.ts principal
+- [ ] Supprimer fichiers weather
+- [ ] Tester le système complet
